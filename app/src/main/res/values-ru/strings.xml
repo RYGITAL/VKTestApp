@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sex">Пол:</string>
+    <string name="male">мужской</string>
+    <string name="female">женский</string>
+    <string name="not_specified">не определен</string>
+    <string name="friends">Друзья</string>
+    <string name="enter_id">Введите ID</string>
+    <string name="add">Добавить</string>
+    <string name="friends_amount">Количество друзей:</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <string name="login">Вход в аккаунт</string>
+</resources>
